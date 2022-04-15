@@ -46,4 +46,4 @@ To create the Swagger API is Used the online edittor. And downloaded the code as
 
 <img src="Screenshots/Docker/Screenshot (174).png"> <br/>
 
-<img src="Screenshots/Docker/swagger.png"> <br/>
+<img src="Screenshots/Swagger/swagger.png"> <br/>
