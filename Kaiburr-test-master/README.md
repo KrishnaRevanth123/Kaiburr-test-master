@@ -35,4 +35,4 @@ To create the Swagger API is Used the online edittor. And downloaded the code as
 
 <b>Screenshot</b><br>
 
-<img src="Screenshots/Docker/Screenshot(174).png"> <br/>
+<img src="Screenshots/Docker/Screenshot (174).png"> <br/>
