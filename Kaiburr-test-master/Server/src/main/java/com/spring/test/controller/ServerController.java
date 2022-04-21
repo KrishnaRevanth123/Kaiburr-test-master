@@ -48,6 +48,7 @@ public class ServerController {
 	public String saveServer(@ModelAttribute Server server) {
 		repo.save(server);
 		return "done";
+
 	}
 	
 	@GetMapping("/getByName")
